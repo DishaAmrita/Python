@@ -1,4 +1,4 @@
-# Typecasting = the process of converting a variable from one data type to another
+# Typecasting = the process of converting a variable from one data type to another data typq
 #               str(), int(), float(), bool()
 
 name = "Amrita Bhawal"
